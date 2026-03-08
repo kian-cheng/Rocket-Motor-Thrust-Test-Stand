@@ -12,15 +12,15 @@ Specification:
 - Single-shot ignition pulse
 
 ## CAD:
+<img width="1040" height="877" alt="image" src="https://github.com/user-attachments/assets/6d5b501f-a4cf-4212-bbdd-92d7d6e653af" />
 
-<img width="757" height="600" alt="Screenshot 2025-12-14 at 8 37 51 PM" src="https://github.com/user-attachments/assets/ecd83b07-f405-4f2c-8b1a-a97d3d267dba" />
 
 ## BOM:
 
 2020 aluminium extrusion lengths:
-- 2x 210mm
+- 2x 230mm
 - 2x 110mm
-- 1x 140mm
+- 1x 160mm
 - 1x 20mm (for mounting load cell)
 
 (optional, only needed for a dual orientation build)

@@ -6,10 +6,15 @@ Specification:
 - Supports up to 200mm in length, but can be expanded
 - Physical arming switch
 - up to 80 Hz binary telemetry (as high as HX711 can be)
-- Physical arming switch
 - Software arming
 - Heartbeat + link-loss auto-disarm
 - Single-shot ignition pulse
+
+## Procedure (how to operate):
+- Mount the rocket motor to the linear rail
+- Get electronics set up (connect to ESP32)
+- Ensure the end of the rocket motor sits flush with the loadcell plate without triggering
+- Start logging and ignite!
 
 ## CAD:
 <img width="1040" height="877" alt="image" src="https://github.com/user-attachments/assets/6d5b501f-a4cf-4212-bbdd-92d7d6e653af" />
